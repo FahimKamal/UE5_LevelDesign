@@ -14,18 +14,18 @@
 ======================================================================
 === VISUAL SHOWCASE (MAIN VIDEO & HERO IMAGE) ===
 ======================================================================
-A captivating video (30s-1min) showcasing both levels and a general hero image will be added here once the greyboxes reach a more presentable state.
 -->
 
 <p align="center">
-  <!-- VIDEO PLACEHOLDER - Replace this comment with your embedded video or link when ready -->
-  <em>[Main Showcase Video (30s-1min) covering both SP & MP levels - Coming Soon!]</em>
+  <img src="https://placehold.co/800x450/png?text=Main+Showcase+Video\n(SP+%26+MP+Levels)" alt="Main Showcase Video Placeholder" width="80%"/>
+  <br>
+  <em>Main Showcase Video (30s-1min) - Will be added once greyboxes are more developed.</em>
 </p>
 
 <p align="center">
-  <img src="[LINK_TO_YOUR_MAIN_PROJECT_HERO_IMAGE_WHEN_READY]" alt="Level Design Prototypes - Hero Image" width="80%"/>
+  <img src="https://placehold.co/1000x500/png?text=Level+Design+Prototypes\nHero+Image" alt="Level Design Prototypes - Hero Image Placeholder" width="80%"/>
   <br>
-  <em>A representative image of the "Level Design Prototypes" project. (Image will be updated as development progresses)</em>
+  <em>A representative hero image of the "Level Design Prototypes" project. (Image will be updated as development progresses)</em>
 </p>
 
 ---
@@ -74,8 +74,7 @@ The focus for both is purely on spatial design, establishing the fundamental gam
 *(This section will be updated upon successful completion of the course and receipt of the certificate.)*
 
 <p align="center">
-  <!-- Placeholder for Certificate Image -->
-  <img src="[LINK_TO_YOUR_CERTIFICATE_IMAGE_WHEN_RECEIVED]" alt="Certificate for Fundamentals of Level Design" width="70%"/>
+  <img src="https://placehold.co/700x500/png?text=Course+Certificate\n(Fundamentals+of+Level+Design)" alt="Certificate for Fundamentals of Level Design Placeholder" width="70%"/>
   <br>
   <!-- Placeholder for Verification Link -->
   <!-- <a href="[LINK_TO_COURSERA_VERIFICATION_PAGE]">
@@ -91,19 +90,24 @@ The focus for both is purely on spatial design, establishing the fundamental gam
 
 ### Single-Player Level Screenshots
 <p align="center">
-  <em>[SP Screenshot 1: e.g., Initial blockout of SP Area A - Link will be added soon]</em>
-  <br>
-  <em>[SP Screenshot 2: e.g., View of the SP critical path - Link will be added soon]</em>
+  <img src="https://placehold.co/600x338/png?text=SP+Screenshot+1\nInitial+Blockout" alt="SP Screenshot 1: Initial Blockout Placeholder" width="45%"/>
+  <img src="https://placehold.co/600x338/png?text=SP+Screenshot+2\nCritical+Path" alt="SP Screenshot 2: Critical Path View Placeholder" width="45%"/>
+  <br/>
+  <img src="https://placehold.co/600x338/png?text=SP+Screenshot+3\nKey+Area+Design" alt="SP Screenshot 3: Key Area Design Placeholder" width="45%"/>
+  <img src="https://placehold.co/600x338/png?text=SP+Screenshot+4\nLayout+Detail" alt="SP Screenshot 4: Layout Detail Placeholder" width="45%"/>
+  <br/>
+  <em>(Screenshots for the Single-Player level will be updated as greyboxing progresses.)</em>
 </p>
 
 ### Multiplayer Level Screenshots
 <p align="center">
-  <em>[MP Screenshot 1: e.g., Overview of MP arena layout - Link will be added soon]</em>
-  <br>
-  <em>[MP Screenshot 2: e.g., Example of MP chokepoint/cover - Link will be added soon]</em>
-</p>
-<p align="center">
-  <em>(More screenshots for both levels will be added as the greyboxes develop)</em>
+  <img src="https://placehold.co/600x338/png?text=MP+Screenshot+1\nArena+Overview" alt="MP Screenshot 1: Arena Overview Placeholder" width="45%"/>
+  <img src="https://placehold.co/600x338/png?text=MP+Screenshot+2\nChokepoint/Cover" alt="MP Screenshot 2: Chokepoint/Cover Placeholder" width="45%"/>
+  <br/>
+  <img src="https://placehold.co/600x338/png?text=MP+Screenshot+3\nObjective+Area" alt="MP Screenshot 3: Objective Area Placeholder" width="45%"/>
+  <img src="https://placehold.co/600x338/png?text=MP+Screenshot+4\nStrategic+View" alt="MP Screenshot 4: Strategic View Placeholder" width="45%"/>
+  <br/>
+  <em>(Screenshots for the Multiplayer level will be updated as greyboxing progresses.)</em>
 </p>
 
 ---
@@ -119,6 +123,7 @@ The focus for both is purely on spatial design, establishing the fundamental gam
 *   **Course:** [Fundamentals of Level Design with Unreal Engine](https://www.coursera.org/learn/level-design?specialization=epic-games-game-design-professional-certificate) (Epic Games / Coursera)
 *   **Version Control:** GitHub ([FahimKamal/UE5_LevelDesign](https://github.com/FahimKamal/UE5_LevelDesign.git)) 💾
 *   **Documentation:** Markdown (for this README)
+*   **Image Placeholders:** [placehold.co](https://placehold.co/)
 *   **Reference/Planning (Potentially):** *e.g., PureRef, Miro, Obsidian (for LDDs)*
 
 ---
@@ -173,7 +178,7 @@ This project is focused on developing and demonstrating proficiency in:
 
 ## 🔮 Future Plans (Within This Project's Scope)
 
-*   Regularly update this README with progress, screenshots, and learnings for both levels.
+*   Regularly update this README with progress, actual screenshots/video, and learnings for both levels.
 *   Develop both greyboxes to meet all requirements of the Coursera module.
 *   Create a 30-second to 1-minute cinematic fly-through video showcasing key aspects of both the SP and MP levels.
 *   Capture compelling screenshots for each level.
